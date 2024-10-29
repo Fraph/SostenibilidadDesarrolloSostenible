@@ -1,7 +1,7 @@
 # La sostenibilidad y el desarrollo sostenible
 ## Indice
 
-1. [Introduccion](Introduccion.md)
+1. [Introduccion](introduccion.md)
 2. [Sostenibilidad y el desarrollo sostenible](Sostenibilidad-y-el-desarrollo-sostenible.md)
 3. [¿Que significa la sigla ASG](ASG.md)
 4. [La agenda 2030 y los ODS](ODS.md)
