@@ -8,4 +8,4 @@ Además, se examinará la evaluación del desempeño en sostenibilidad de las em
 
 
 El desarrollo sostenible se presenta como una necesidad imperiosa para abordar los desafíos globales que enfrentamos hoy, y este trabajo pretende ser una contribución a la comprensión y promoción de prácticas sostenibles en el ámbito empresarial.
-![sostenibilidad](img/heidi.jpeg)
+![sostenibilidad](img/sostenibilidadintroduccion.png)
