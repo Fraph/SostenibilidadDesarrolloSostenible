@@ -19,3 +19,4 @@ La sostenibilidad y el desarrollo sostenible son esenciales para abordar los des
 * **Proteger el Planeta**:Al reducir el impacto ambiental y conservar los recursos naturales, contribuimos a la salud del planeta y a la preservación de ecosistemas vitales.
 * **Mejorar la calidad de vida**:La implementación de políticas sostenibles promueve el bienestar social, mejorando la calidad de vida de las comunidades y garantizando un acceso equitativo a recursos y oportunidades.
 * **Fomentar la innovación**:La búsqueda de soluciones sostenibles impulsa la innovación y el desarrollo de nuevas tecnologías, lo que puede resultar en nuevas oportunidades económicas.
+![Desarrollosostenible](img/equidad.jpeg)
