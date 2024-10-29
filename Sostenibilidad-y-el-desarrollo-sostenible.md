@@ -1,5 +1,6 @@
 # Sostenibilidad y desarrollo sostenible.
 ![Desarrollosostenible](img/equidad.jpeg)
+
 La sostenibilidad y el desarrollo sostenible son conceptos fundamentales en el ámbito de la gestión ambiental, social y económica.Ambos términos están interrelacionados y se centran en la capacidad de satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades.
 ## Sostenibilidad
 La sostenibilidad se refiere a la capacidad de mantener procesos, sistemas o estructuras a lo largo del tiempo. Implica un equilibrio entre el crecimiento económico, la equidad social y la protección del medio ambiente. Para lograr una sociedad sostenible, es esencial considerar las interacciones entre estos tres pilares:
