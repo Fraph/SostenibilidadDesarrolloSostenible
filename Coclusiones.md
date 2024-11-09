@@ -1,4 +1,5 @@
 # Conclusiones.
+![conclusiones](img/conclusiones.webp)
 Citando a la O.N.U en su informe de 2020:
 * Se estima que aproximadamente 71 millones de personas volverán a caer en la extrema pobreza en 2020, lo que supondría el primer aumento de la pobreza mundial desde 1998. La pérdida de ingresos, la limitada protección social y el incremento de los precios podrían poner en riesgo de pobreza y hambre incluso a personas que anteriormente estaban a salvo.
 * El subempleo y desempleo derivados de la crisis implican que aproximadamente 1.600 millones de trabajadores ya vulnerables en la economía sumergida (la mitad de la fuerza laboral mundial) pueden verse considerablemente afectados, con un descenso estimado de sus ingresos del 60 % durante el primer mes de la crisis.
