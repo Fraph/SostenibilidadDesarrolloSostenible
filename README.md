@@ -10,9 +10,9 @@
 ---
 [Conclusiones](Conclusiones.md)
 
-[Mapa conceptual]()
+[Mapa conceptual](Mapa.md)
 
-[Glosario]()
+[Glosario](Glosario.md)
 
 [Referencias](Referencias.md)
 
