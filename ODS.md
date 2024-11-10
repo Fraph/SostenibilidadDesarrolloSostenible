@@ -62,3 +62,5 @@ Promover sociedades justas, pacíficas e inclusivas, proporcionar acceso a la ju
 Fortalecer los medios de implementación y revitalizar la alianza mundial para el desarrollo sostenible.
 
 ## Caracteristicas de la agenda 2023
+
+La Agenda 2030 es un plan global adoptado por la ONU en 2015, con 17 Objetivos de Desarrollo Sostenible (ODS) para promover un desarrollo económico, social y ambiental equilibrado. Sus características clave son: aplica a todos los países, busca la inclusión de los más vulnerables, promueve la sostenibilidad a largo plazo, y requiere la colaboración de gobiernos, empresas y sociedad civil. Además, establece una responsabilidad compartida, donde los países más desarrollados deben apoyar a los menos avanzados, y se mide el progreso con indicadores específicos. Su fin es crear un mundo más justo, equitativo y sostenible.
