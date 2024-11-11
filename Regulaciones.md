@@ -1,9 +1,9 @@
 # Marco normativo de la sostenibilidad en Europa 
 
-![legalsost](img/lgl.jgp)
+
 
 El marco normativo y regulador de la sostenibilidad en Europa se compone de una serie de políticas, leyes y regulaciones que buscan promover prácticas sostenibles en varios ámbitos, como la protección del medio ambiente, la lucha contra el cambio climático, el uso eficiente de los recursos y la transición hacia una economía más verde. Estas normativas se enmarcan dentro de la Agenda 2030 de la ONU, que incluye los Objetivos de Desarrollo Sostenible (ODS), y están alineadas con los esfuerzos para cumplir con los compromisos internacionales en cuanto a cambio climático, biodiversidad y otras áreas ambientales.
-
+![legalsost](img/lgl.jpg)
 ## Principales Componentes del Marco Normativo y Regulatorio en Europa
 
 El Pacto Verde Europeo es la principal hoja de ruta de la Unión Europea (UE) para lograr la sostenibilidad. Fue lanzado en diciembre de 2019 con el objetivo de hacer que Europa sea el primer continente en lograr la neutralidad climática para 2050. Este pacto incluye una serie de políticas y medidas, como:
