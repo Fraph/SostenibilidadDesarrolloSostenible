@@ -11,3 +11,6 @@
 
 * Marco normativo de la sostenibilidad en Europa 
   * [Agencia europea de medio ambiente](https://www.eea.europa.eu/en)
+
+* Evaluacion del desempeño en sostenibilidad de las empresas
+  *[Emqconsulting](https://eqmconsulting.com/metricas-clave-desempeno-informes-de-sostenibilidad/)
