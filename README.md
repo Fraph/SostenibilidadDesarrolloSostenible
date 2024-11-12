@@ -6,7 +6,7 @@
 3. [¿Que significa las siglas ASG?](ASG.md)
 4. [La agenda 2030 y los ODS](ODS.md)
 5. [Marco normativo y regulador de la sostenibilidad en Europa](Regulaciones.md)
-6. [Evaluacion del desempeño en sostenibilidad de las empresas](Desempeño.md)
+6. [Evaluacion del desempeño en sostenibilidad de las empresas](Desempeno.md)
 ---
 [Conclusiones](Conclusiones.md)
 
