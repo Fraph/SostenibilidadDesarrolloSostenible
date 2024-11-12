@@ -10,5 +10,4 @@
   * [un.org](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/)
 
 * Marco normativo de la sostenibilidad en Europa 
-  * [eurostat](ec.europa.eu/eurostat)
   * [Agencia europea de medio ambiente](eea.europa.eu)
