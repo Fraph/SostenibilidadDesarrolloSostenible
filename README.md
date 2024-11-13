@@ -8,6 +8,8 @@
 5. [Marco normativo y regulador de la sostenibilidad en Europa](Regulaciones.md)
 6. [Evaluacion del desempeño en sostenibilidad de las empresas](Desempeno.md)
 ---
+![sx](img/sx.jpg)
+---
 [Conclusiones](Conclusiones.md)
 
 [Mapa conceptual](Mapa.md)
